@@ -2,3 +2,5 @@
 I find it interesting how AI software and AI content related to music or art are involved in landmark cases, as AI has grown at an uncontrollable rate in the past several years. With the greyness of copyright infringment laws involving music, I find it interesting that lawsuits involving music have become even more unpredictable with the introduction of AI being used to "steal" content.
 
 I also find it interesting that both large and small companies are being involved in these courtcases, with large companies such as Sony Music, Universal Music Group, Warner Records, and smaller, new companies like Suno, the company behind generating AI music, especially considering that Suno has a partnership with Microsoft. With the growth of AI still being in its relatively early stages, the article gives an interesting perspective on how AI software can be used as a tool to create music, but is also being hindered by large music companies in copyright lawsuits.
+
+Yeah this is pretty interesting. It is an unsolved case right now for what the future of AI copyright will take. It will be interesting to see how this in the future will play out. 
